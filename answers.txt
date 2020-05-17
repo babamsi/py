@@ -1,0 +1,5 @@
+
+50.0
+-4.0
+the lowest possibletemperature that physicalmatter can reach is -273.15C not allowed less than
+212.0
